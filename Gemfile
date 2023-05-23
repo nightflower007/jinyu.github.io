@@ -5,5 +5,5 @@ group :jekyll_plugins do
 
 gem "jekyll", "~> 4.0"
 gem "rake"
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+#gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "webrick", "~> 1.7"
