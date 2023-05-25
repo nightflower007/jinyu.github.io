@@ -6,7 +6,7 @@ email: wenlong.zhang@hotmail.com
 description: "这里是金鱼的个人博客，与你一起发现更大的世界 | 爱好摄影的女孩"
 keyword: "金鱼, 摄影, 金鱼的博客, Jinyu Blog, 博客, 个人网站, 互联网, 爱好, 设计"
 #domain: ""
-url: "" # your host, for absolute URL
+url: "https://nightflower007.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
