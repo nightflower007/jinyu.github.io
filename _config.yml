@@ -14,10 +14,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
+weibo_username: nimo大鱼
+#zhihu_username: huxpro
 github_username: nightflower007
-twitter_username: huxpro
+#twitter_username: huxpro
+#wechat_username: dalong_nasa
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -71,7 +72,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+ga_track_id: "G-LBRV29EZJP" # Format: UA-xxxxxx-xx
 ga_domain: nightflower007.github.io
 
 # Sidebar settings
